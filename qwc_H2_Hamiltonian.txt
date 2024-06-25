@@ -1,4 +1,5 @@
-#Header: # of qubit | # of terms | # of groups4 15 5
+#Header: # of qubit | # of terms | # of groups
+4 15 5
 2
 -0.09886397 IIII
 -0.0453222 XXYY
